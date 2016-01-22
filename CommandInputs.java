@@ -10,7 +10,7 @@ public class CommandInputs{
    
    
    System.out.println("User entered input is "+ a);
-   
+      System.out.println("User entered input is "+ a);
    
    }
 
