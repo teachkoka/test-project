@@ -8,7 +8,7 @@ public class CommandInputs{
    Scanner scan = new Scanner(System.in);
    int a = scan.nextInt();
    
-   
+System.out.println("User entered input is "+ a);
    System.out.println("User entered input is "+ a);
       System.out.println("User entered input is "+ a);
    
