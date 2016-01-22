@@ -11,10 +11,6 @@ public class BitwiseOperator {
 	c = c >> 1;
 	d = d << 1;
 	
-	System.out.println("bitwise And: "+ x);
-	System.out.println("bitwise OR: "+ y);	
- 	System.out.println("bitwise XOR: "+ z);  
- 	System.out.println("right shift (reduce the value to half) "+c);    
  	System.out.println("left shift ( increase the value to double) "+ d);
   
   }
